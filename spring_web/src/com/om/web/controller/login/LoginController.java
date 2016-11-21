@@ -13,7 +13,7 @@ import com.om.web.dto.login.LoginDTO;
 public class LoginController {
 
 	public LoginController() {
-		System.out.println(this.getClass().getSimpleName() + "Created......check it");
+		System.out.println(this.getClass().getSimpleName() + "Created..///..check it");
 	}
 
 	@RequestMapping("/login.do")
